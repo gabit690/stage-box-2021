@@ -1,42 +1,42 @@
 [
     {
-        "src": "./img/example.jpg",
-        "alt": "Rectangle with the word 'image example'",
-        "description": "Image example 1"
+        "src": "./img/malditos-veganos.jpg",
+        "alt": "A carrot and a lettuce wearing a suit",
+        "description": "Ivoox - Malditos veganos"
     },
     {
-        "src": "./img/example.jpg",
-        "alt": "Rectangle with the word 'image example'",
-        "description": "Image example 2"
+        "src": "./img/furia-bebe.jpeg",
+        "alt": "Hosts Malena Pichot and Danila Saiegh",
+        "description": "Futurock - Furia bebé"
     },
     {
-        "src": "./img/example.jpg",
-        "alt": "Rectangle with the word 'image example'",
-        "description": "Image example 3"
+        "src": "./img/jewish-cartman.jpg",
+        "alt": "Eric Cartman Jewish adult",
+        "description": "South Park - Post COVID"
     },
     {
-        "src": "./img/example.jpg",
-        "alt": "Rectangle with the word 'image example'",
-        "description": "Image example 4"
+        "src": "./img/doge-vs-cheems.jpg",
+        "alt": "Swole Doge with Cheems",
+        "description": "Twitter - Swole Doge vs Cheems"
     },
     {
-        "src": "./img/example.jpg",
-        "alt": "Rectangle with the word 'image example'",
-        "description": "Image example 5"
+        "src": "./img/advance-of-liberalism.jpg",
+        "alt": "Javier Milei hugging José Luis Espert",
+        "description": "State - Advance of liberalism"
     },
     {
-        "src": "./img/example.jpg",
-        "alt": "Rectangle with the word 'image example'",
-        "description": "Image example 6"
+        "src": "./img/mr-incredible-disturbed.jpg",
+        "alt": "Disturbed face of Mr. incredible",
+        "description": "Tiktok - Mr. incredible disturbed"
     },
     {
-        "src": "./img/example.jpg",
-        "alt": "Rectangle with the word 'image example'",
-        "description": "Image example 7"
+        "src": "./img/sin-codificar.jpg",
+        "alt": "Cast of the show Peligro sin codificar",
+        "description": "Tiktok - Peligro sin codificar clips"
     },
     {
-        "src": "./img/example.jpg",
-        "alt": "Rectangle with the word 'image example'",
-        "description": "Image example 8"
+        "src": "./img/relator-enojado.jpg",
+        "alt": "Thumbnail of the match Velez vs Boca with phrases of the radio presenter Daniel Mollo",
+        "description": "Tolondroque - Relator enojado"
     }
 ]
