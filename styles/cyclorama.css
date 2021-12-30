@@ -93,7 +93,7 @@
 }
 
 @keyframes show-cyclorama {
-    0% {
+    0%, 5% {
         opacity: 0;
         filter: grayscale(1);
     }
@@ -109,7 +109,7 @@
         opacity: 1;
         filter: grayscale(1);
     }
-    100% {
+    95%, 100% {
         opacity: 0;
         filter: grayscale(1);
     }

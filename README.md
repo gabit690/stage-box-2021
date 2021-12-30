@@ -1,6 +1,6 @@
 # **Template stage box**
 
-The project is a template of the scenario from [Super Mario bros 3][smb3] on the [NES][nes].  
+The project is a template of the scenario from [Super Mario bros. 3][smb3] on the [NES][nes].  
 Shows some images in a similar style at the game ending.
 
 You can check an example [here][web], made by me.  
@@ -46,4 +46,4 @@ Follow nexts guidelines for using data correctly.
 [nintendo]: https://www.nintendo.com/
 [henri]: https://www.youtube.com/channel/UC55qorWbwyPcUVPzh7iBU5w
 [cover]: https://www.youtube.com/watch?v=l5qNAMM7CpI
-[web]: ???
+[web]: https://ciao2021.netlify.app/
